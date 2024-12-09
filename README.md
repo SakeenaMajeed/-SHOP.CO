@@ -127,9 +127,5 @@ Feel free to submit issues for any bugs, feature requests, or general questions 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
 ## Contact
-
-Feel free to reach out to:
-
-- **Name**: Taha Siddiqui
-- **Email**: [siddiquit794@gmail.com](mailto:msiddiquit794@gmail.com)
-- **GitHub**: [https://github.com/tahasidd09](https://github.com/tahasidd09)
+Sakeena Majeed
+email : ("sakeenamajeed24@gmail.com")
