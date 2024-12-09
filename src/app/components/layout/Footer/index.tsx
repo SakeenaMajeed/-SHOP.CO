@@ -14,17 +14,17 @@ const socialsData: SocialNetworks[] = [
   {
     id: 1,
     icon: <FaFacebookF />,
-    url: "https://www.facebook.com/alishbah.rajput.12?mibextid=ZbWKwL",
+    url: "https://www.facebook.com/sukaina.majeed.98?mibextid=ZbWKwL",
   },
   {
     id: 2,
     icon: <FaInstagram />,
-    url: "https://www.instagram.com/_alishbaaa_majeed/profilecard/?igsh=aDIyYnAxZXJybngx",
+    url: "https://www.instagram.com/_sakeena_majeed?igsh=MWdlaWkzcm44aXE4dw==",
   },
   {
     id: 3,
     icon: <FaLinkedin />,
-    url: "https://www.linkedin.com/in/alishba-majeed-5099b8310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    url: "https://www.linkedin.com/posts/sakeena-majeed-86b58732a_hackathon-task-figma-activity-7271608891531046912-19h3?utm_source=share&utm_medium=member_desktop",
   },
 ];
 
@@ -104,7 +104,7 @@ const Footer = () => {
                 href="/"
                 className="text-black font-medium"
               >
-                Alishba Majeed
+                Sakeena Majeed
               </Link>
               {", "}
               Designed by{" "}
