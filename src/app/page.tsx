@@ -1,10 +1,10 @@
-import ProductListSec from "@/components/common/ProductListSec";
-import Brands from "@/components/homepage/Brands";
-import DressStyle from "@/components/homepage/DressStyle";
-import Header from "@/components/homepage/Header";
-import Reviews from "@/components/homepage/Reviews";
-import { Product } from "@/types/product.types";
-import { Review } from "@/types/review.types";
+import ProductListSec from "@/app/components/common/ProductListSec";
+import Brands from "@/app/components/homepage/Brands";
+import DressStyle from "@/app/components/homepage/DressStyle";
+import Header from "@/app/components/homepage/Hero";
+import Reviews from "@/app/components/homepage/Reviews";
+import { Product } from "@/app/types/product.types";
+import { Review } from "@/app/types/review.types";
 
 export const newArrivalsData: Product[] = [
   {
