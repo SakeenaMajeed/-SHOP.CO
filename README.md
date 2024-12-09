@@ -120,7 +120,7 @@ Contributions are welcome! If you'd like to contribute, Please follow these step
 
 ## Issues
 
-Feel free to submit issues for any bugs, feature requests, or general questions related to the project. You can also reach out via [email](mailto:siddiquit794@gmail.com) for support.
+Feel free to submit issues for any bugs, feature requests, or general questions related to the project. You can also reach out via [email](mailto:sakeenamajeed24@gmail.com) for support.
 
 ## License
 
